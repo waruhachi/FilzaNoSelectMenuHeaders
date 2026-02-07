@@ -1,0 +1,9 @@
+Package: moe.waru.nofilzaselectmenuheaders
+Name: NoFilzaSelectMenuHeaders
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Disables the select menu headers in Filza.
+Maintainer: waruhachi
+Author: waruhachi
+Section: Tweaks
+Depends: mobilesubstrate
